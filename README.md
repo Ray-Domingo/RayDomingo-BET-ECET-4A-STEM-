@@ -1,1 +1,4 @@
 # RayDomingo
+John Ray B. Domingo
+BET-ECET 4B STEM
+ECET12-M CLOUD COMPUTING
